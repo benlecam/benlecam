@@ -6,7 +6,7 @@ Lead Product Manager, 8+ years across SaaS, AI, robotics and marketplaces. I pro
 
 This page is the hands on side of my work: things I've built, wired to real APIs, running in production.
 
-### Results I've shipped
+### Some Results I Got
 
 | | |
 | --- | --- |
@@ -15,7 +15,7 @@ This page is the hands on side of my work: things I've built, wired to real APIs
 | **80% fewer** | Support tickets after I deployed an LLM support chatbot |
 | **0 → 1,000** | Transactions on ViewShaper, the marketplace I co-founded, in under 6 months |
 
-### What I build with AI
+### Examples of what I've built with AI
 
 **[AI booking agent](https://github.com/bounceLC/ai-booking-agent).** The assistant on my site: answers questions about my background and books calls on my real calendar, inside the chat. Claude tool use, Cal.com, Cloudflare. Open source, try it on [benjaminlecam.info](https://benjaminlecam.info).
 
