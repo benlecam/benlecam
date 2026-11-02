@@ -19,7 +19,7 @@ This page is the hands on side of my work: things I've built, wired to real APIs
 
 **[AI booking agent](https://github.com/benlecam/ai-booking-agent).** The assistant on my site: answers questions about my background and books calls on my real calendar, inside the chat. Claude tool use, Cal.com, Cloudflare. Open source, try it on [benjaminlecam.info](https://benjaminlecam.info).
 
-**[Feedback triage agent](https://github.com/bounceLC/feedback-triage-agent).** Pulls customer and stakeholder requests from Intercom and Slack every week, scores them against the team's prioritization rules, and sends a ranked list. Replaced hours of triage meetings. The model tags, your rules rank, so every position is defensible. Open source with a demo you can run in 10 seconds.
+**[Feedback triage agent](https://github.com/benlecam/feedback-triage-agent).** Pulls customer and stakeholder requests from Intercom and Slack every week, scores them against the team's prioritization rules, and sends a ranked list. Replaced hours of triage meetings. The model tags, your rules rank, so every position is defensible. Open source with a demo you can run in 10 seconds.
 
 **Stale deal agent.** Watches the CRM and emails the rep when a deal hasn't moved in two weeks.
 
